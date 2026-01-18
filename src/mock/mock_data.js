@@ -50,11 +50,46 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1768718439846",
+          "name": "Google AI Studio",
+          "url": "https://aistudio.google.com/prompts/new_chat",
+          "description": "谷歌人工智能工作室",
+          "icon": "https://www.faviconextractor.com/favicon/aistudio.google.com"
+        },
+        {
+          "id": "site-1768718492491",
+          "name": "Google gemini",
+          "url": "https://gemini.google.com",
+          "description": "谷歌Gemini",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
+          "id": "site-1768718563105",
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "description": "Grok",
+          "icon": "https://www.faviconextractor.com/favicon/grok.com"
+        },
+        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "site-1768718598125",
+          "name": "Deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "Deepseek",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+        },
+        {
+          "id": "site-1768718643680",
+          "name": "千问",
+          "url": "https://www.tongyi.com/",
+          "description": "阿里旗下人工智能",
+          "icon": "https://www.faviconextractor.com/favicon/www.tongyi.com?larger=true"
         },
         {
           "id": "claude",
@@ -482,5 +517,5 @@ export const mockData = {
     }
   ],
   "title": "Jalen的导航🐱",
-  "_fileSha": "ea3f00cba99e7d9e1d5cb7b816f6a7836b8c233e"
+  "search": "bing"
 }
